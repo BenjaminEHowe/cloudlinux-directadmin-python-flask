@@ -1,4 +1,4 @@
-# Python application hosted on CloudLinux with DirectAdmin
+# Flask (Python) application hosted on CloudLinux with DirectAdmin
 This repository contains a template application which can be deployed to a [shared hosting account using 
 DirectAdmin](https://namecrane.com/store/da-shared-hosting) and 
 [CloudLinux's Python 
